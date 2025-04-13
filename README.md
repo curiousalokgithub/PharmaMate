@@ -1,7 +1,7 @@
 # PharmaMate - Pharmacy Management System
 
 <div align="center">
-  <img  src="https://github.com/user-attachments/assets/4b82e812-35ce-45a3-86c5-596af8bc2474" alt="PharmaMate Logo" width="200" height="200" style="border-radius: 10px;">
+  <img src="https://github.com/user-attachments/assets/4b82e812-35ce-45a3-86c5-596af8bc2474" alt="PharmaMate Logo" width="200" height="200" style="border-radius: 10px;">
   <h3>A Modern Solution for Pharmacy Management</h3>
 </div>
 
@@ -15,51 +15,39 @@ Try out the application at: [http://localhost:3000](http://localhost:3000)
 
 ## 📸 Screenshots
 
-<details open>
-<summary><h3>Dashboard</h3></summary>
-<p>The main dashboard provides an overview of your pharmacy's status, including total medicines, low stock items, expiring medicines, and revenue information.</p>
-<img src="https://github.com/user-attachments/assets/fd6a3df6-305a-4376-8737-484df2db8f45" alt="Dashboard" width="800"/>
+### 📊 Complete Dashboard
+![Complete Dashboard](https://github.com/user-attachments/assets/16d4a17d-14ae-41b2-9a93-5d57b8ac55bf)
 
-<p>Navigation menu for easy access to all features:</p>
-<img src="https://github.com/user-attachments/assets/79f4e441-16fd-4037-8009-d4c28e5e91ac" alt="Navigation Menu" width="400"/>
-</details>
+### 🔢 Navigation Options
+![Navigation Options](https://github.com/user-attachments/assets/f2722dfc-34f7-4db8-a03a-249e338036eb)
 
-<details>
-<summary><h3>Sales Tracking</h3></summary>
-<p>Comprehensive sales tracking with calendar view to visualize daily revenue:</p>
-<img src="https://github.com/user-attachments/assets/d4a9fb9b-4cc2-42bb-928c-aed0fd4eafa6" alt="Sales Calendar" width="800"/>
+### 💰 Sales Calendar View
+![Sales Calendar](https://github.com/user-attachments/assets/59f62b68-c2bb-40d4-9a3f-5e774326d83c)
 
-<p>List view of all sales with filtering options:</p>
-<img src="screenshots/sales-list.png" alt="Sales List" width="800"/>
+### 📝 Add Medicine
+![Add Medicine](https://github.com/user-attachments/assets/0ad22150-36c1-4769-8bea-bf1403394f05)
 
-<p>Record new sales with an easy-to-use interface:</p>
-<img src="https://github.com/user-attachments/assets/bc8ec878-a6be-4571-88cf-6b17c6cdd9de" alt="Record Sale" width="500"/>
-</details>
+### 📈 List of Sales
+![List of Sales](https://github.com/user-attachments/assets/4a3de8b7-e617-4dfe-9eae-bdb0a2caa0dc)
 
-<details>
-<summary><h3>Inventory Management</h3></summary>
-<p>Track inventory changes over time:</p>
-<img src="https://github.com/user-attachments/assets/7a70417b-d077-4aa2-9882-f34ee7fd808a" alt="Inventory Logs" width="800"/>
+### ✅ Record a Sale
+![Record Sale](https://github.com/user-attachments/assets/de05c3de-a5b1-4da9-8fd5-6acd7e42bc27)
 
-<p>Update inventory quantities easily:</p>
-<img src="https://github.com/user-attachments/assets/6228ca9d-2bbc-4029-9e7f-cc2b02345aa2" alt="Update Inventory" width="500"/>
-</details>
+### 💼 Inventory Sale Log
+![Inventory Sale](https://github.com/user-attachments/assets/b86bf055-1fe9-4e1e-bf03-fd2bc807f9ee)
 
-<details>
-<summary><h3>Medicine Management</h3></summary>
-<p>Add new medicines to your inventory:</p>
-<img src="https://github.com/user-attachments/assets/d04e326b-ed9c-4bd3-8c50-8827475f949f" alt="Add Medicine" width="800"/>
-</details>
+### ➕ Update Inventory
+![Update Inventory](https://github.com/user-attachments/assets/46b8f240-3425-464c-848e-0baf43a04f46)
 
 ## ✨ Features
 
-- **💊 Medicine Management**: Add, edit, and remove medicines from your inventory
-- **💰 Sales Tracking**: Record sales and visualize revenue on a calendar view
-- **📦 Inventory Control**: Monitor stock levels and get alerts for low stock items
-- **⏱️ Expiry Management**: Get notifications for medicines approaching expiry dates
-- **📊 Dashboard**: Get an overview of your pharmacy's performance at a glance
-- **🔒 Authentication**: Secure login and registration system
-- **📱 Responsive Design**: Works on desktops, tablets, and mobile devices
+- 💊 Medicine Management: Add, edit, and remove medicines from your inventory
+- 💰 Sales Tracking: Record sales and visualize revenue on a calendar view
+- 🛆 Inventory Control: Monitor stock levels and get alerts for low stock items
+- ⏱️ Expiry Management: Get notifications for medicines approaching expiry dates
+- 📊 Dashboard: Get an overview of your pharmacy's performance at a glance
+- 🔐 Authentication: Secure login and registration system
+- 📱 Responsive Design: Works on desktops, tablets, and mobile devices
 
 ## 🚀 Technologies Used
 
@@ -78,15 +66,11 @@ Try out the application at: [http://localhost:3000](http://localhost:3000)
 
 ### Quick Setup (Windows)
 
-The easiest way to get started is to use the provided batch scripts:
-
 1. Ensure MySQL is running on your machine
 2. Double-click the `start-local.bat` file
 3. Open your browser and navigate to `http://localhost:3000`
 
 ### Manual Setup
-
-If you prefer to set up the application manually:
 
 #### Database Configuration
 
@@ -128,47 +112,34 @@ npm start
 
 ### Demo Mode
 
-For quick exploration, click "Skip Authentication & Go to Dashboard" on the login page.
+Click "Skip Authentication & Go to Dashboard" on the login page for a quick preview.
 
 ### Common Tasks
 
-#### Adding a Medicine
+#### Add Medicine
+1. Click "Add Medicine" in the menu
+2. Fill details and submit
 
-1. Click "Add Medicine" in the navigation menu
-2. Fill in the required details (name, description, price, quantity, expiry date)
-3. Click "Add Medicine" to save
+#### Record Sale
+1. Go to "Sales > New Sale"
+2. Choose medicine and quantity, click OK
 
-#### Recording a Sale
-
-1. Navigate to "Sales" in the menu
-2. Click "New Sale"
-3. Select a medicine and enter the quantity
-4. Click "OK" to record the sale
-
-#### Updating Inventory
-
-1. Go to "Inventory" in the menu
-2. Click "Update Inventory"
-3. Select a medicine, operation type (ADD/REMOVE), and quantity
-4. Click "OK" to update
+#### Update Inventory
+1. Go to "Inventory > Update Inventory"
+2. Choose medicine, action (ADD/REMOVE), and quantity, then submit
 
 ## 💬 Support
-
-If you encounter any issues or have questions about the application, please contact:
 
 - Email: support@pharmamate.com
 - GitHub: [curiousalokgithub](https://github.com/curiousalokgithub)
 
-## 🔄 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
 ## 📄 License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License.
 
 ---
 
 <div align="center">
   Made with ❤️ by <a href="https://github.com/curiousalokgithub">Alok Kumar Tripathy</a>
 </div>
+
