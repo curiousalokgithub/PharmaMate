@@ -1,7 +1,7 @@
 # PharmaMate - Pharmacy Management System
 
 <div align="center">
-  <img src="frontend/public/logo.png" alt="PharmaMate Logo" width="200" height="200" style="border-radius: 10px;">
+  <img  src="https://github.com/user-attachments/assets/4b82e812-35ce-45a3-86c5-596af8bc2474" alt="PharmaMate Logo" width="200" height="200" style="border-radius: 10px;">
   <h3>A Modern Solution for Pharmacy Management</h3>
 </div>
 
