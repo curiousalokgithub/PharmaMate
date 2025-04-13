@@ -18,37 +18,44 @@ Try out the application at: [http://localhost:3000](http://localhost:3000)
 <details open>
 <summary><h3>Dashboard</h3></summary>
 <p>The main dashboard provides an overview of your pharmacy's status, including total medicines, low stock items, expiring medicines, and revenue information.</p>
-<img src="screenshots/dashboard.png" alt="Dashboard" width="800"/>
+<img src="screenshots/dashboard.png"![Screenshot 2025-04-14 023008](https://github.com/user-attachments/assets/fd6a3df6-305a-4376-8737-484df2db8f45)
+ alt="Dashboard" width="800"/>
 
 <p>Navigation menu for easy access to all features:</p>
-<img src="screenshots/nav-menu.png" alt="Navigation Menu" width="400"/>
+<img src="screenshots/nav-menu.png"![Screenshot 2025-04-14 023019](https://github.com/user-attachments/assets/79f4e441-16fd-4037-8009-d4c28e5e91ac)
+ alt="Navigation Menu" width="400"/>
 </details>
 
 <details>
 <summary><h3>Sales Tracking</h3></summary>
 <p>Comprehensive sales tracking with calendar view to visualize daily revenue:</p>
-<img src="screenshots/sales-calendar.png" alt="Sales Calendar" width="800"/>
+<img src="screenshots/sales-calendar.png"![Screenshot 2025-04-14 023024](https://github.com/user-attachments/assets/d4a9fb9b-4cc2-42bb-928c-aed0fd4eafa6)
+ alt="Sales Calendar" width="800"/>
 
 <p>List view of all sales with filtering options:</p>
 <img src="screenshots/sales-list.png" alt="Sales List" width="800"/>
 
 <p>Record new sales with an easy-to-use interface:</p>
-<img src="screenshots/record-sale.png" alt="Record Sale" width="500"/>
+<img src="screenshots/record-sale.png" ![Screenshot 2025-04-14 023044](https://github.com/user-attachments/assets/bc8ec878-a6be-4571-88cf-6b17c6cdd9de)
+alt="Record Sale" width="500"/>
 </details>
 
 <details>
 <summary><h3>Inventory Management</h3></summary>
 <p>Track inventory changes over time:</p>
-<img src="screenshots/inventory-logs.png" alt="Inventory Logs" width="800"/>
+<img src="screenshots/inventory-logs.png"![Screenshot 2025-04-14 023113](https://github.com/user-attachments/assets/7a70417b-d077-4aa2-9882-f34ee7fd808a)
+ alt="Inventory Logs" width="800"/>
 
 <p>Update inventory quantities easily:</p>
-<img src="screenshots/update-inventory.png" alt="Update Inventory" width="500"/>
+<img src="screenshots/update-inventory.png" ![Screenshot 2025-04-14 023118](https://github.com/user-attachments/assets/6228ca9d-2bbc-4029-9e7f-cc2b02345aa2)
+alt="Update Inventory" width="500"/>
 </details>
 
 <details>
 <summary><h3>Medicine Management</h3></summary>
 <p>Add new medicines to your inventory:</p>
-<img src="screenshots/add-medicine.png" alt="Add Medicine" width="800"/>
+<img src="screenshots/add-medicine.png"![Screenshot 2025-04-14 023031](https://github.com/user-attachments/assets/d04e326b-ed9c-4bd3-8c50-8827475f949f)
+ alt="Add Medicine" width="800"/>
 </details>
 
 ## ✨ Features
