@@ -56,6 +56,8 @@ Try out the application at: [http://localhost:3000](http://localhost:3000)
 - **Database**: MySQL
 - **Authentication**: JWT (JSON Web Tokens)
 
+## Currently the project is under production stage so the deployed link might not work.It is taking mock data fetched with API.If u want to see the result kindly run it on local host by following the below instructions
+
 ## 🔧 Installation and Setup
 
 ### Prerequisites
